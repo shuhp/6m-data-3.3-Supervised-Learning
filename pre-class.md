@@ -14,7 +14,7 @@ This is the simplest version of "show up prepared": watch a short intro video, r
 
 ## Step 0 — Watch the intro video (~5 min)
 
-Before you open the notebook, watch the short intro video: **[https://youtu.be/ZKjA1Xz8XOI](https://youtu.be/ZKjA1Xz8XOI)**. It's under 5 minutes and frames the problem you're about to solve. Watching this first makes the notebook click faster.
+Before you open the notebook, watch the short intro video: **[L03 intro video on YouTube](https://youtu.be/ZKjA1Xz8XOI)**. It's under 5 minutes and frames the problem you're about to solve. Watching this first makes the notebook click faster.
 
 ---
 
